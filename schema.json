@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "CyberGuard Pro",
+  "description": "CyberGuard Pro \u2014 Enterprise cybersecurity solutions. Advanced threat detection, incident response, and compliance automation for businesses.",
+  "url": "https://franciscoderek7.github.io/cyberguard-pro",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "lowPrice": "99",
+    "highPrice": "2499"
+  }
+}
